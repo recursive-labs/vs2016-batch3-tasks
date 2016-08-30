@@ -1,0 +1,26 @@
+a) Download:
+
+https://www.dropbox.com/s/eezunyomx895br4/rl100-screencasts-final.iso?dl=0
+
+(note: bigger than 170Mb in size)
+
+b) This is an .iso image file. You can "mount" it to a directory on your Linux system
+using the so-called "loopback mount".  Do some research on the net and do it.
+
+c) Once you mount the iso file, you can see the contents - you will see folders 
+containing .mp4 files.
+
+d) Watch the videos  and try out the commands on your Linux system 
+(in the following order):
+
+rl100/cmdline  (all the  files in this folder)
+
+rl100/commands
+
+rl100/vim
+
+rl100/director
+
+Time: 1 day
+
+Please post  on the group (and NOT to my personal id)  if you have any issues.
