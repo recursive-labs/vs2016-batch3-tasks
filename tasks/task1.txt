@@ -1,0 +1,25 @@
+
+a) Download and extract the pdf files contained in these two files:
+
+http://pramode.net/downloads/shellbasics.tgz (2 pdfs)
+
+http://pramode.net/downloads/git.tgz (3 pdfs)
+
+b) Read and work out the pdf files. Note that you will  be seeing some tricky stuff 
+here ... so don't do it  in a hurry. It is VERY important that you work out things 
+on the  machine ... just reading is    NOT  enough.
+
+c) Watch the videos in :
+
+rl100/shellbas
+
+rl100/gitbasic
+
+rl100/github
+
+Again, try out stuff on your machine.
+
+d) Create an account on github.com. This account is going to  be very useful for you in the future - so please use a proper user name [if you already have a github account, no need to create a new one]
+
+
+Time: 2 days
