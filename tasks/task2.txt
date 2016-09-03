@@ -1,0 +1,68 @@
+
+Part 1
+-------------
+
+a) Create a new repo called "class-notes" on github .com 
+
+b) Clone this to your local machine.
+
+c)  Store all the three class notes you have written (three text files) 
+    in the local repo, add, and commit.
+
+d)  Push the local repo to github.com
+
+-----------------------------------------
+Part 2
+-----------
+
+a) Install and learn to use "tmux": 
+
+https://danielmiessler.com/study/tmux/
+
+https://www.youtube.com/watch?v=BHhA_ZKjyxo
+
+Part 3
+-------------
+
+View (and try out on your machine - please note: just viewing videos is NOT enough 
+... actively work  out everything on your system) the following 
+videos (from the .iso image):
+
+rl100/compilat
+
+rl100/gdb 
+
+(after you finish these videos, you should be capable of compiling,running and debugging 
+simple  C programs on Linux. Even though we don't focus on C in this  course, 
+it is good to have and understanding of stuff like this from a broader  perspective)
+
+(note: if you haven't done any C programming, please check out some online resource and 
+learn the very basics - just learn enough to let  you print messages on the screen 
+using   "printf",read numbers using "scanf", do basic 
+arithmetic/if statements/while/for loops. This should not take 
+you more than 1 or 2  hours. Knowing  basic C is part of 
+computer literacy - so please take it seriously).
+
+
+Part 4
+--------------
+
+Download and untar:
+
+http://pramode.net/downloads/bitops.tgz
+
+You will get two  PDF's. Read the documents and make sure you understand 
+everything PERFECTLY. Try out ALL the C programs - 
+write extra C code of your own.
+
+Bit manipulation and number representation is something which many students 
+don't learn properly ... and it is VERY important in a lot 
+of domains - not just low level embedded systems programming.
+
+Please discuss on the list actively ... 
+
+
+Time: 2 to 3  days.
+
+
+
