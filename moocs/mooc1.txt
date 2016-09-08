@@ -11,3 +11,14 @@ Introduction to computer science and programming using
 Python:
 
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8
+
+----
+
+EdX Linux course:
+
+https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
+
+(this is a self-paced course without deadlines; so you
+can do it slowly - but plan to complete in 1-2 month's time)
+
+

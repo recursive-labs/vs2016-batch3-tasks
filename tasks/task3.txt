@@ -1,0 +1,27 @@
+a) Find out how for loops work in the   unix shell
+
+b) Find out how "case statements" work in shell scripts
+
+c) Find out how "command line arguments" can be accessed from a shell script
+
+d) Write a script (call it "abc") which works like this:
+
+./abc 2 20
+
+this will print all numbers from 2  to 20.  The script should work with any two numbers, not just 2 and 20.
+
+e) Write a shell script which will rename all the files in the current directory whose name contains upper-case characters into all lower case. For example, if the directory contains a file whose name is CoUnt.c, it should be renamed to count.c.
+(hint: use a for  loop, use the "tr" command)
+
+f) Write a shell script which will move all files in the current directory containing the word "linux" into a separate folder called "linux-files".
+
+g)Write a shell script which will move all executable files in the current directory to a folder called "executables" (hint: read the man page of "test"; "test" can check many different attributes of a file)
+
+h) Find out how these commands work: xargs, tee, find, sed, awk, cut, uniq, head, tail
+
+i) Learn how to use "wget" to fetch data from URL's
+
+------
+Time: 1-2  days should be sufficient.
+
+note: please put up all the shell scripts in a repo called "shell-scripts".
