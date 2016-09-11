@@ -1,0 +1,53 @@
+
+Work out All the chapters in Part-1 of this basic text:
+
+https://automatetheboringstuff.com/#toc
+
+(This  book uses Python 3; you can get Python3 on your machine simply
+by typing "python3" instead of  "python").
+
+Time: 3-4 days should be enough.
+--------------------------------------------------------
+
+
+There are two versions of Python - 2 and 3. It will be good if you
+can try out all the code you write under both Python 2 and  
+Python 3; there are many places where you will get different
+behaviour between the versions.
+
+Python2 is still used very widely in the industry; but it
+is preferred that new development be done in Python 3.
+
+---------------------------------------------------------
+
+
+a) When working out text-books, please put up all the sample 
+code/exercise solutions in a git repo, properly organized by 
+individual chapter (or section, whatever).
+
+b) Do NOT put up exercise solutions of the MOOC's you are doing 
+on github; making solutions publically visible is against 
+course rules. A suggestion is to create an account on:
+
+https://about.gitlab.com/gitlab-com/
+
+I haven't used it personally, but they are fast  becoming a competitor 
+for github.  I believe gitlab lets you create  "private" repositories. 
+You can put  up MOOC exercise solutions in a private
+repo on gitlab.
+
+
+----------------------
+
+There are some other good books for Python which you can
+refer for clearing your doubts:
+
+http://greenteapress.com/thinkpython/html/index.html
+
+http://www.diveintopython.net/toc/index.html  
+
+The official reference: 
+
+https://docs.python.org/3/tutorial/
+
+------------------------------------
