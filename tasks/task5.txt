@@ -1,0 +1,9 @@
+
+Work out chapters 7,8,14 of:
+
+https://automatetheboringstuff.com/
+
+
+(Please store all the code you write in a github
+repo)
+
