@@ -1,0 +1,46 @@
+
+Note: ALL actions mentioned below are to be
+done on the remote system with IP address given
+in (a).
+
+----
+
+a) Using the "ssh" command, log on to the 
+following remote system:
+
+IP address: 139.59.253.130
+
+user name: guest
+password: cpython1234
+
+
+b) The actual questions for this test are stored in
+a file called:
+
+qns.txt
+
+on the remote system.  You will have to find out where 
+this file is located (hint: use the "find" command).
+
+c) Create a directory on the remote system 
+(under /home/guest which is your
+login directory) - the name of the directory
+should match your name; for example:
+
+cd /home/guest  
+mkdir arjun   
+
+d) All the answers to the test questions should be
+found out by running commands on the remote system.
+The answers should be stored in a file called "ans.txt"
+under the folder which you have created (say "arjun").
+
+
+e) It will be necessary to create some files as part of the
+solution to some of the test questions. ALL files you create
+should be under the folder which you have created. As all of
+you are working under the same login("guest"), unless you work under
+different folders, it will create a lot of confusion.
+
+
+
