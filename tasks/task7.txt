@@ -1,0 +1,10 @@
+
+Work out all the code samples/exercises in
+chapters 11 and 15 of:
+
+https://automatetheboringstuff.com/
+
+(Note: make sure you put up all the code you write
+in a github  repository)
+
+
