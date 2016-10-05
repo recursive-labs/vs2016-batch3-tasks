@@ -1,0 +1,53 @@
+
+Check out:
+
+https://www.python.org/downloads/release/python-2712/
+           
+     OR
+
+https://www.python.org/downloads/release/python-352/
+
+
+
+You can download the actual source code of the Python2 
+programming language as a .tgz file (links given towards
+the end of the page).
+
+After downloading, do the following:
+
+a) untar the archive and just go through the different
+folders. Take a casual look at the C source files. For most
+of you, this might be your first exposure to real world code.
+Take some time to look at the way the C code is structured.
+
+b) Can you identify the source file where the CPython virtual
+machine decodes the byte-code instructions and calls specific
+C functions to perform operations like "add two values", "compare
+two values" etc?
+
+c) Compile this source code to get a copy of the python programming
+language executable. Try running this executable.
+
+(This may take some effort if you are doing it for the first time.
+You may have to install additional packages and do some exploration
+on your own. Building software from source is a *very* important
+activity).
+
+The following might be of help:
+
+http://www.diveintopython.net/installing_python/source.html
+
+https://docs.python.org/devguide/setup.html
+
+d) Once you have access to the source code of a program, you can
+modify it in any way you like. Can you make some silly, trivial
+modification to the Python source code and build a new version of
+Python which includes those modifications?
+
+-----------------
+Time: 2 days
+
+
+
+
+
