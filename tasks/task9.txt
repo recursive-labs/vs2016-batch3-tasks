@@ -1,0 +1,17 @@
+
+Check out:
+
+http://greenteapress.com/thinkpython/html/index.html
+
+Read the chapters from "Case study: data structure selection" upto 
+and including "Inheritance".
+
+Work out ALL the exercises.
+
+Put up the solutions in a separate github repo 
+(say 'think-python-solutions')
+
+Note: This is a highly rated text book on Python.
+
+Time: 3 days
+
