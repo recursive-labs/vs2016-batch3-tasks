@@ -1,0 +1,14 @@
+
+a)Read (and work out all the exercises) in chapters
+40 to 44 of this famous book:
+
+http://learnpythonthehardway.org/book/
+
+(don't forget to put up code on github in a separate repo)
+
+Note: Chapter 43 is a bit long .. you can just read it without
+focusing on  the exercises.
+
+Time: 2 days
+
+
