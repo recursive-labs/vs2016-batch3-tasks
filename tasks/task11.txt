@@ -1,0 +1,12 @@
+a) Read and work out all the sample code / exercises
+in this chapter of Think Python:
+
+http://greenteapress.com/thinkpython/html/thinkpython022.html
+
+You can see a "toy" hash table implementation at the end. Make
+sure you understand it.
+
+
+Time: 2 days
+
+
