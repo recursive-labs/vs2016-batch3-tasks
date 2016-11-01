@@ -1,0 +1,13 @@
+
+Read and work out ALL the sample code
+and exercises in:
+
+http://www.diveintopython.net/object_oriented_framework/index.html
+
+Make sure you understand perfectly ALL the sample programs
+presented here. Please discuss on the group if there are
+any problems.
+
+Time: 2 days
+
+
