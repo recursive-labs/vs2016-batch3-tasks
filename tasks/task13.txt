@@ -1,0 +1,10 @@
+
+Learn Javascript basics:
+
+http://www.htmldog.com/guides/javascript/
+
+Cover the basic and intermediate levels.
+
+Time: 1 day
+
+
