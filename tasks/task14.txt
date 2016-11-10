@@ -1,0 +1,16 @@
+
+Read and understand perfectly:
+
+http://www.openbookproject.net/py4fun/huffman/huffman.html
+
+(You should type the Python code given at the above
+link and run it and make sure it works).
+
+Now, re-write the code in Javascript.
+
+You should use the "nodejs" environment for
+running JS:
+
+https://nodejs.org/en/
+
+Time: 2 days
