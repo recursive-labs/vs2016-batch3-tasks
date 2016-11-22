@@ -1,0 +1,16 @@
+
+Read and understand perfectly:
+
+http://www.openbookproject.net/py4fun/queens/index.html
+
+(you should work out the code on your system)
+
+Rewrite the code in javascript (using nodejs).
+
+Upload code to a github repo.
+
+---
+
+Time: 2 days
+
+
