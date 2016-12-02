@@ -1,0 +1,16 @@
+
+Read and work out the code samples in 
+chapters 10 and 11 of the official python
+tutorial:
+
+https://docs.python.org/3/tutorial/
+
+(this is Python 3, you can try out all the
+code samples in Python 2 also)
+
+It is essential that you have some idea of the
+features provided by the Python standard library.
+So this section is very important.
+
+Time: 2 days
+
