@@ -1,0 +1,16 @@
+
+Work out ALL exercises in first 4 chapters of
+this book:
+
+http://anandology.com/python-practice-book/
+
+(Don't forget to put up solutions in a github repo)
+
+This book is authored by Anand, one of the most
+famous Python developers in India. It is a very useful
+resource - make sure you take it seriously.
+
+Time: 4 days
+
+(Many exercises in the first chapter are very elementary,
+you can do them quickly).
