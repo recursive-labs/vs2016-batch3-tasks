@@ -1,0 +1,12 @@
+
+Work out ALL exercises in chapters 5 and 6 of:
+
+http://anandology.com/python-practice-book/
+
+(Don't forget to put up solutions in a github repo)
+
+(Please DO NOT  skip  the tougher exercises - you can
+ask for help on the mailing list)
+
+Time: 4 days
+
