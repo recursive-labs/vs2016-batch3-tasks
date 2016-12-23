@@ -1,0 +1,13 @@
+
+Check out:
+
+https://docs.python.org/2/library/collections.html
+
+Write small programs demonstrating the use of all the basic
+collection classes (namedtuple,deque,counter,ordereddict and
+defaultdict).
+
+Put up the code on github.
+
+Time: 1 day
+
