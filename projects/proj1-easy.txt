@@ -1,0 +1,40 @@
+Read and work out:
+
+http://diveintohtml5.info/introduction.html
+
+http://diveintohtml5.info/canvas.html
+
+After that, create a "paint application" (like
+Paintbrush/Windows paint) in pure JS/HTML5. Here
+is one such program:
+
+https://sketch.io/sketchpad/
+
+Try to make it as interesting as possible.
+
+Your program need not be able to "SAVE"  drawings.
+That is tricky.
+
+Time limit: 1 week (for studying + doing project).
+
+-----------------
+
+Please write properly structured code: divide your program into
+as many small functions as possible. Avoid global variables as
+far as possible. Give meaningful names to functions/global variables.
+
+Do take this seriously: the people who would be hiring you in  
+the future will definitely look at your code.
+
+--------------------
+
+These 'projects' are the means by which I will be "evaluating"
+you to find out what kinds of jobs I can refer you to. So please
+take them seriously.
+
+-----------------------
+
+Please make sure you DISCUSS on the group if some aspect 
+of the project is not clear to you.
+
+----------------------
