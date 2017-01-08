@@ -1,0 +1,9 @@
+
+Learn the basics of the Django web app framework by
+working out:
+
+https://tutorial.djangogirls.org/en/
+
+(please put up code in a separate github repo)
+
+

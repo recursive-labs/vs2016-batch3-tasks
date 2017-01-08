@@ -1,0 +1,29 @@
+
+
+Write a minimal "web server" program in
+Python using the "socket" library.
+
+
+A browser (firefox, chrome, whatever) should be able to
+request .html, .txt and image files (.gif, .png, .jpg)
+and the server should deliver them  properly.
+
+Note1: You should know HTTP basics: https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
+
+Note2: You should NOT use high-level Python libraries which
+provide web server functionality (like https://docs.python.org/2/library/basehttpserver.html)
+
+Note3: First make sure you are comfortable with "socket programming"
+in Python by writing simple programs like chat; use both UDP and TCP.
+For writing the web server, you will have to use TCP.
+
+
+Time: 5 days
+-------------------------------
+Bonus points if you can do this:
+
+
+The web server should be able to handle concurrent
+connections using the   "fork" system call.
+
+

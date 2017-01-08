@@ -1,0 +1,18 @@
+
+Read, and understand this program perfectly:
+
+http://www.openbookproject.net/py4fun/huffman/huffman.html
+
+You should try out the Python code on the machine.
+
+Now, rewrite the same program in Javascript.
+
+You should use "nodejs" for the javascript implementation.
+
+https://nodejs.org/en/
+
+---
+Time: 3 days
+
+
+
